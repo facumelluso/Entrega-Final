@@ -1,0 +1,44 @@
+h5 {
+  font-family: "Uchen", serif; }
+
+label {
+  font-family: "Uchen", serif; }
+
+h2 {
+  font-family: "Uchen", serif;
+  font-size: 30px;
+  padding: 10px; }
+
+h4 {
+  font-family: "Cinzel", serif;
+  padding: 10px; }
+
+p {
+  padding: 10px;
+  font-family: "Cinzel", serif;
+  font-size: 1.5rem;
+  text-align: center; }
+
+body {
+  background-color: #9AAAAC; }
+
+h5 {
+  font-family: "Cinzel", serif;
+  padding: 10px;
+  text-align: center; }
+
+header {
+  background-image: url(../imagenes/fondo.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%; }
+  header h1 {
+    font-family: "Cinzel", serif;
+    text-transform: uppercase;
+    font-size: 50px;
+    text-align: center;
+    color: black; }
+  header ul {
+    text-align: center; }
+  header li a {
+    text-decoration: none;
+    color: black; }

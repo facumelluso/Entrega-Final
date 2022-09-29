@@ -1,0 +1,29 @@
+header{
+    background-image: url(../imagenes/fondo.jpg);
+
+    background-repeat: no-repeat;
+
+    background-size: 100%;
+    h1{
+        font-family: $letra2;
+        
+        text-transform: uppercase;
+    
+        font-size: 50px;
+        
+        text-align: center;
+
+        color: black;
+    }
+
+    ul{
+        text-align: center;
+    }
+
+    li a{
+        text-decoration: none;
+    
+        color: black;
+    }
+    
+}
