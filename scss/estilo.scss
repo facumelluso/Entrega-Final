@@ -3,3 +3,18 @@
 @import "subtitulosYtextos";
 
 @import "header";
+
+@media screen and (max-width: 650px) {
+    imagenes {
+        width: 100%;
+    }
+
+    iframe {
+        width: 100%;
+
+        height: 100%;
+    }
+
+
+}
+
